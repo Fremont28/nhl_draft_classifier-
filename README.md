@@ -17,4 +17,4 @@ On the flip side, six, seventh, eighth, and ninth rounds picks (no longer a roun
 
 We also created a multinomial regression model for measuring the probability that NHL draft picks land in the elite, good, average, or below replacement groups based on the average games played per season. Multinomial logistic regression is a classification method that generalizes logistic regression to multi-class problems (two or more classes).
 
-Read Here: 
+Read Here: https://beyondtheaverage.wordpress.com/2018/06/21/how-valuable-are-first-round-draft-nhl-picks/
